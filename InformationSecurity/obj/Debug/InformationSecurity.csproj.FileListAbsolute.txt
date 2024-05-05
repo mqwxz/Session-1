@@ -1,0 +1,12 @@
+G:\Проекты Visual Studio\InformationSecurity\bin\Debug\InformationSecurity.exe.config
+G:\Проекты Visual Studio\InformationSecurity\bin\Debug\InformationSecurity.exe
+G:\Проекты Visual Studio\InformationSecurity\bin\Debug\InformationSecurity.pdb
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.csproj.AssemblyReference.cache
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.Properties.Resources.resources
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.csproj.GenerateResource.cache
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.csproj.CoreCompileInputs.cache
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.exe
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.pdb
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.UI.General.frmAuthorization.resources
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.UI.General.frmMainSystem.resources
+G:\Проекты Visual Studio\InformationSecurity\obj\Debug\InformationSecurity.UI.Organizer.frmMainOrganizer.resources
